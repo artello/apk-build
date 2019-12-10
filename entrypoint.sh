@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-echo "hello $1"
+templates/APKBUILD.sh studio 0.10 100
